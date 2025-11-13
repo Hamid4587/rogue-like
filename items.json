@@ -1,0 +1,24 @@
+{"id": "eli1", "name": "Elixir (Niv.1)", "heal": "7", "price": "5"}
+{"id": "eli2", "name": "Elixir (Niv.2)", "heal": "15", "price": "10"}
+{"id": "eli3", "name": "Elixir (Niv.3)", "heal": "28", "price": "15"}
+{"id": "eli4", "name": "Elixir (Niv.4)", "heal": "36", "price": "20"}
+{"id": "eli5", "name": "Elixir (Niv.5)", "heal": "43", "price": "25"}
+{"id": "eli6", "name": "Elixir (Niv.6)", "heal": "50", "price": "30"}
+
+{"id": "cafe", "name": "café", "+stam": "6"}
+{"id": "energy", "name": "Boisson énérgisante", "+stam": "12"}
+{"id": "energy+", "name": "RedBull", "+stam": "18"}
+{"id": "energy++", "name": "Monster", "+stam": "24"}
+
+#arme: les stats atk sont sommés aux stats atk du joueur
+{"id": "sho_swo", "name": "épée courte", "atk": "2", "price": "8"}
+{"id": "lon_swo", "name": "épée longue", "atk": "5", "price": "15"}
+{"id": "clay", "name": "claymore", "atk": "8", "price": "22"}
+{"id": "zwei", "name": "zweihander", "atk": "13", "price": "27"}
+{"id": "gros_baton", "name": "BOOM-BOOM", "atk": "20", "price": "36"}
+
+#bouclier: les stats def sont sommés aux stats def du joueur
+{"id": "wood_sh", "name": "bouclier en bois", "def": "4", "price": "3"}
+{"id": "iron_sh", "name": "bouclier en fer", "def": "9", "price": "7"}
+{"id": "_sh", "name": "bouclier en ", "def": "4", "price": "3"}
+{"id": "wood_sh", "name": "bouclier en bois", "def": "4", "price": "3"}
